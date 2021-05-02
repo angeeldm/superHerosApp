@@ -95,8 +95,8 @@ const LogIn = () => {
 const Logo = styled(LogoSvg)`
     width: 100%;
 
-    @media (min-width: 998px){
-        width: 50%;
+    @media (min-width: 768px){
+        width: 30%;
     }
 `;
 
